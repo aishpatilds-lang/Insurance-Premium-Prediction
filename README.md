@@ -1,4 +1,4 @@
-# 💰 Insurance Premium Prediction App
+# 💰 Insurance Premium Predictor
 
 A Machine Learning web application that predicts medical insurance costs based on user details such as age, BMI, smoking habits, and region.
 
